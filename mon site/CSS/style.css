@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+}
+
+#menu{
+   
+    display: flex;
+    width: 100%;
+    height: 80px;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    align-items: center;
+    justify-content:left;
+    color: #c1c1c1;
+
+}
+
+#btn{
+   
+    display: flex;
+    width: 100px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    
+ 
+}
+
+#btn:hover{
+    opacity: 1;
+   color: black;
+   border-width: 1px;
+    border-bottom: solid;
+   
+    
+}
+
+#erilu{
+display: flex;   
+width: 100%;
+height: 400px;
+align-items: center;
+justify-content: center;
+margin-top: 45px;
+
+}
+
+#logo1{
+height: 240px;
+
+
+}
+
+
+#titre{
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+
+#footer{
+    width: 100%;
+   height: 100%;
+    
+    background-color: #3dbad6;
+    display: flex;
+    font-size: 40px;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+
+#texte{
+    display: flex;
+    margin-top: 150px;
+}
+
+#logo2{
+    margin-top: 35px;
+    width: 600px;
+    display: flex;
+    
+    
+}
